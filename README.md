@@ -21,10 +21,7 @@
 - 개체명 인식(Named Entity Recognition)
 - 단어 중의성(Lexical Ambiguity)
 - 한국어 처리
--   정규 표현식
--     match
--     search
--     sub
+-   정규 표현식(match, search, sub)
 -   토큰화(Tokenization)
 -     한국어 자연어 처리 konlpy와 형태소 분석기 Mecab설치
 -     단어 토큰화
