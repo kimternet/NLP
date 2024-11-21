@@ -6,11 +6,11 @@
     - 정규표현식(match, compile, search, split, sub, findall, finditer)
 3. 토큰화(Tokenization)
 4. 단어 토큰화
-  - 문장 토큰화
-  - 정규 표현식을 이용한 토큰화
-  - 케라스를 이용한 토큰화
-  - TextBlob을 이용한 토큰화
-  - 기타 토크나이저
+    - 문장 토큰화
+    - 정규 표현식을 이용한 토큰화
+    - 케라스를 이용한 토큰화
+    - TextBlob을 이용한 토큰화
+    - 기타 토크나이저
 3. n-gram 추출
 4. Pos(Parts of Speech) 태깅
 5. 불용어 제거
