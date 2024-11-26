@@ -60,3 +60,12 @@
 2. 교차 검증
 3. 정밀도와 재현률
 4. 그리드 검색을 이용한 파라미터 최적화
+## 5. 의미 연결망 분석(Semantic Network Analysis)
+1. n-gram
+2. 어휘 동시 출현 빈도의 계수화
+3. 중심성(Centrality)지수
+   - 연결 중심성(Degree Centrality)
+   - 위세 중심성(Eigenvector Centrality)
+   - 근접 중심성(Closeness Centrality)
+   - 매개 중심성(Betweeness Centrality)
+   - 페이지랭크(PageRank)
