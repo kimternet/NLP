@@ -48,3 +48,15 @@
 3. Scikit-learn을 이용한 비계층적 군집화
    - 클러스터 개수 3
    - 클러스터 개수 6
+## 4. 문서 분류(Document Classification)
+1. Scikit-learn을 이용한 문서 분류
+   - Logistic Regression
+   - Support Vector Machine
+   - Naive Bayes
+     - DTM을 이용한 Naive Bayes
+     - tf-idf를 이용한 정확도 향상
+   - Decision Tree
+   - XGBoost
+2. 교차 검증
+3. 정밀도와 재현률
+4. 그리드 검색을 이용한 파라미터 최적화
