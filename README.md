@@ -37,3 +37,14 @@
 6. 단어 빈도 시각화
 7. 워드클라우드(WordCloud)
 8. squarify 트리맵 시각화
+## 3. 군집 분석(Cluster Analysis)
+1. Word2Vec 생성
+2. Scikit-learn, Scipy를 이용한 계층적 군집화
+   - Scikit-learn
+     - ward
+     - average
+     - complete
+   - Scipy
+3. Scikit-learn을 이용한 비계층적 군집화
+   - 클러스터 개수 3
+   - 클러스터 개수 6
