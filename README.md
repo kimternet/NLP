@@ -69,3 +69,10 @@
    - 근접 중심성(Closeness Centrality)
    - 매개 중심성(Betweeness Centrality)
    - 페이지랭크(PageRank)
+## 6. 토픽 모델링(Topic Modeling)
+1. 잠재 의미 분석(Latent Semantic Analysis)
+2. 잠재 디리클레 할당(Latent Dirichlet Allocation)
+3. Gensim을 이용한 토픽 모델링
+   - 잠재 의미 분석을 위한 LsiModel
+   - 잠재 디리클레 할당을 위한 LdaModel
+4. 토픽 모델링 시각화
